@@ -1,10 +1,10 @@
 {
   "name" : "e-commerce-passaro/conta",
   "description" : "Uma biblioteca para apresentar uma conta a um consumidor",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "type":"library",
   "homepage":"https://github.com/e-commerce-passaro/conta",
-  "time":"2017-05-04 17:14:07",
+  "time":"2017-05-11 14:28:08",
   "license":"GPL-3.0+",
   "authors":[{
 	"name":"Marcel Bezerra da Silva",
@@ -19,7 +19,7 @@
   },
   "require" : {
     "php" : ">=7.0",
-    "e-commerce-passaro/login" : "1.1.0",
+    "e-commerce-passaro/login" : "1.2.0",
     "e-commerce-passaro/compra" : "1.0.3"
   },
   "keywords" : [ "e-commerce-passaro", "zf3", "ecommerce", "conta" ],
